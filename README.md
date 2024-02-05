@@ -1,9 +1,9 @@
 # Group Repository for the Data Science Mini-Project (EMATM0050)
 
 ## Please edit the fields below with your information
-Group Number: 
+Group Number: OL2
 
-Problem Assigned: 
+Problem Assigned: B
 
-Group Members:
+Group Members: Jack Inwood, Felix Mayo, Samantha Starling, Adam Rapley
 
