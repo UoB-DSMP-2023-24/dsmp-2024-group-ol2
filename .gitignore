@@ -2,3 +2,24 @@ data/JPMorgan_Set01.zip
 data/Unconfirmed 878051.crdownload
 .DS_Store
 data/LOBs.zip
+data/lob/full_lob.csv
+data/lob/sample_lob.csv
+data/OneDrive_2_23-02-2024.zip
+data/legacy-lob/UoB_Set01_2025-01-02LOBs.txt
+data/legacy-lob/UoB_Set01_2025-01-03LOBs.txt
+.gitignore
+data/legacy-lob/UoB_Set01_2025-01-06LOBs.txt
+.gitignore
+data/legacy-lob/UoB_Set01_2025-01-07LOBs.txt
+.gitignore
+data/legacy-lob/UoB_Set01_2025-01-08LOBs.txt
+.gitignore
+data/legacy-lob/UoB_Set01_2025-01-09LOBs.txt
+.gitignore
+data/legacy-lob/UoB_Set01_2025-01-10LOBs.txt
+.gitignore
+data/legacy-lob/UoB_Set01_2025-01-13LOBs.txt
+.gitignore
+data/legacy-lob/UoB_Set01_2025-01-14LOBs.txt
+.gitignore
+data/legacy-lob/UoB_Set01_2025-01-15LOBs.txt
