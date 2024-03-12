@@ -94,9 +94,9 @@ dmypy.json
 # Data science
 *.csv
 *.parquet
-# data/
+data/
 !data/.gitkeep
-# models/
+models/
 !models/.gitkeep
 
 # Environment variables
