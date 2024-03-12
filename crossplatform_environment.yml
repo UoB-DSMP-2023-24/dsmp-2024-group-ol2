@@ -1,0 +1,13 @@
+name: dsmp-ol2
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - boto3
+  - dask
+  - fastparquet
+  - numpy
+  - pandas
+  - pyarrow
+  
