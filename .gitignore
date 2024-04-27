@@ -96,7 +96,6 @@ dmypy.json
 *.parquet
 data/
 !data/.gitkeep
-models/
 !models/.gitkeep
 
 # Environment variables
